@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="contacts_toolbar_title">Contacts</string>
+    <string name="contacts_toolbar_menu_options">Options</string>
+    <string name="contacts_toolbar_menu_filter">Filters</string>
+    <string name="contacts_toolbar_menu_refresh">Refresh</string>
+    <string name="contacts_bottom_sheet_filter_hint">Search by name or email</string>
+    <string name="contacts_bottom_sheet_filter_close">Close</string>
+</resources>

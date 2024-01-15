@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="detail_name_hint">Name and surname</string>
+    <string name="detail_email_hint">Email</string>
+    <string name="detail_gender_hint">Gender</string>
+    <string name="detail_gender_man">Man</string>
+    <string name="detail_gender_women">Women</string>
+    <string name="detail_date_hint">Registration date</string>
+    <string name="detail_phone_hint">Phone</string>
+    <string name="detail_location_hint">Address</string>
+    <string name="detail_edit_warning">It is not possible to edit the contact</string>
+    <string name="detail_camera_warning">It is not possible to change the photo</string>
+    <string name="contact_list_empty">empty list, a first recovery with internet is necessary</string>
+    <string name="contact_list_loading">Loading</string>
+    <string name="contact_list_error">Loading Error</string>
+</resources>
